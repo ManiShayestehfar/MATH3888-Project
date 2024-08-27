@@ -1,0 +1,48 @@
+# February 2018 Re-issue with updated short header fields
+
+The short headers for the following sequential numbers have been modified in Table T34. This change has also been reflected in the "Metadata_2016_TSP_DataPack.xlsx".
+
++-----------+-------------------------------+-------------------------------+
+|Sequential | Previous short header         | Updated short header          |
++-----------+-------------------------------+-------------------------------+
+| T16402    | Ele_gas_wat_was_ser_01_Cen_M  | Ele_gas_wat_was_ser_06_Cen_M  |
+| T16403    | Ele_gas_wat_was_ser_01_Cen_F  | Ele_gas_wat_was_ser_06_Cen_F  |
+| T16404    | Ele_gas_wat_was_ser_01_Cen_P  | Ele_gas_wat_was_ser_06_Cen_P  |
+| T16405    | Ele_gas_wat_was_ser_06_Cen_M  | Ele_gas_wat_was_ser_11_Cen_M  |
+| T16406    | Ele_gas_wat_was_ser_06_Cen_F  | Ele_gas_wat_was_ser_11_Cen_F  |
+| T16407    | Ele_gas_wat_was_ser_06_Cen_P  | Ele_gas_wat_was_ser_11_Cen_P  |
+| T16408    | Ele_gas_wat_was_ser_11_Cen_M  | Ele_gas_wat_was_ser_16_Cen_M  |
+| T16409    | Ele_gas_wat_was_ser_11_Cen_F  | Ele_gas_wat_was_ser_16_Cen_F  |
+| T16410    | Ele_gas_wat_was_ser_11_Cen_P  | Ele_gas_wat_was_ser_16_Cen_P  |
+| T16474    | Rent_hir_re_est_S_01_Cen_M    | Rent_hir_re_est_S_06_Cen_M    |
+| T16475    | Rent_hir_re_est_S_01_Cen_F    | Rent_hir_re_est_S_06_Cen_F    |
+| T16476    | Rent_hir_re_est_S_01_Cen_P    | Rent_hir_re_est_S_06_Cen_P    |
+| T16477    | Rent_hir_re_est_S_06_Cen_M    | Rent_hir_re_est_S_11_Cen_M    |
+| T16478    | Rent_hir_re_est_S_06_Cen_F    | Rent_hir_re_est_S_11_Cen_F    |
+| T16479    | Rent_hir_re_est_S_06_Cen_P    | Rent_hir_re_est_S_11_Cen_P    |
+| T16480    | Rent_hir_re_est_S_11_Cen_M    | Rent_hir_re_est_S_16_Cen_M    |
+| T16481    | Rent_hir_re_est_S_11_Cen_F    | Rent_hir_re_est_S_16_Cen_F    |
+| T16482    | Rent_hir_re_est_S_11_Cen_P    | Rent_hir_re_est_S_16_Cen_P    |
+| T16483    | Prof_scie_tech_S_01_Cens_M    | Prof_scie_tech_S_06_Cens_M    |
+| T16484    | Prof_scie_tech_S_01_Cens_F    | Prof_scie_tech_S_06_Cens_F    |
+| T16485    | Prof_scie_tech_S_01_Cens_P    | Prof_scie_tech_S_06_Cens_P    |
+| T16486    | Prof_scie_tech_S_06_Cens_M    | Prof_scie_tech_S_11_Cens_M    |
+| T16487    | Prof_scie_tech_S_06_Cens_F    | Prof_scie_tech_S_11_Cens_F    |
+| T16488    | Prof_scie_tech_S_06_Cens_P    | Prof_scie_tech_S_11_Cens_P    |
+| T16489    | Prof_scie_tech_S_11_Cens_M    | Prof_scie_tech_S_16_Cens_M    |
+| T16490    | Prof_scie_tech_S_11_Cens_F    | Prof_scie_tech_S_16_Cens_F    |
+| T16491    | Prof_scie_tech_S_11_Cens_P    | Prof_scie_tech_S_16_Cens_P    |
+| T16519    | Hea_car_soc_assist_01_Cens_M  | Hea_car_soc_assist_06_Cens_M  |
+| T16520    | Hea_car_soc_assist_01_Cens_F  | Hea_car_soc_assist_06_Cens_F  |
+| T16521    | Hea_car_soc_assist_01_Cens_P  | Hea_car_soc_assist_06_Cens_P  |
+| T16522    | Hea_car_soc_assist_06_Cens_M  | Hea_car_soc_assist_11_Cens_M  |
+| T16523    | Hea_car_soc_assist_06_Cens_F  | Hea_car_soc_assist_11_Cens_F  |
+| T16524    | Hea_car_soc_assist_06_Cens_P  | Hea_car_soc_assist_11_Cens_P  |
+| T16525    | Hea_car_soc_assist_11_Cens_M  | Hea_car_soc_assist_16_Cens_M  |
+| T16526    | Hea_car_soc_assist_11_Cens_F  | Hea_car_soc_assist_16_Cens_F  |
+| T16527    | Hea_car_soc_assist_11_Cens_P  | Hea_car_soc_assist_16_Cens_P  |
++-----------+-------------------------------+-------------------------------+
+
+# August 2017 Re-issue of TSP with amendments to 2006 geography
+
+Note: This updated 2016 Time Series Profile uses an approximate population based geographic allocation of 2006 Collector Districts to 2016 Australian Statistical Geography Standard output areas. This is consistent with the approach used for the 2011 Time Series Profile. A previous release of the 2016 Time Series Profile used an approximate area based allocation. Both approaches are statistically valid but result in marginally different population counts.

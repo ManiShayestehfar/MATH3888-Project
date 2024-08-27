@@ -1,0 +1,8 @@
+# Second release of TSP contains the following amendments
+
+Following amendments to one R1 table in R2 re-release (Jan 23) from original R2 release (Oct 12, 2022) are as follows:
+
+Table T09: A perturbed total has been introduced for this table for totalling birthplace of parents cohort for 'Total responses', replacing the summed total from what was supplied in the original R2 release.  Impact is slight differences to the aggregated data in this total field for all geography levels as supplied in original R2 release.
+
+
+The changes between ASGS 2016 and ASGS 2021 are recorded in the "changes from the previous edition of the ASGS" section of ASGS 2021 Edition 3 publication from https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/main-structure-and-greater-capital-city-statistical-areas/changes-previous-edition-asgs

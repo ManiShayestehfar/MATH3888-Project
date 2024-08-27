@@ -1,0 +1,8 @@
+region_id,Median_age_persons,Median_mortgage_repay_monthly,Median_Tot_prsnl_inc_weekly,Median_rent_weekly,Median_Tot_fam_inc_weekly,Average_num_psns_per_bedroom,Median_Tot_hhd_inc_weekly,Average_household_size
+RA10,36,2167,601,340,1636,1.1,1391,2.7
+RA11,41,1560,496,220,1207,1.1,961,2.5
+RA12,43,1200,439,150,1014,1.1,831,2.4
+RA13,39,910,479,100,1125,1.1,891,2.4
+RA14,38,867,447,70,998,1.2,861,2.5
+RA15,63,0,480,3250,0,0,0,0
+RA19,37,0,349,0,0,0,0,0
